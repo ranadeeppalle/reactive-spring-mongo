@@ -1,0 +1,8 @@
+spring.profiles=dev
+---
+spring.profiles=nonprod
+---
+spring.profiles.active=dev
+spring.profiles.active=dev
+
+
